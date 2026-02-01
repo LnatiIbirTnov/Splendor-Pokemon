@@ -1,0 +1,12 @@
+[project]
+name = "splendor-pokemon"
+version = "0.1.0"
+description = "Splendor Pokemon board game framework for AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+
+[tool.black]
+line-length = 100
